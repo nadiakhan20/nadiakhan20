@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">A Passionate Technology ![image](https://github.com/nadiakhan20/nadiakhan20/assets/135332576/2c9c1970-4eed-49c0-be9d-48ec5fdc34c9) Geek </h4>
+<h4 align="center">A Passionate Technology Geek </h4>
 
 ###
 
