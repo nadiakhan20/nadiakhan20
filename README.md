@@ -10,19 +10,17 @@
 
 ###
 
-<h4 align="center">A Passionate Technology Person writing code Geek </h4>
+<h4 align="center">A Passionate Technology Geek </h4>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://tajamul.dev.voyage/" target="_blank">
-    <img src="https://camo.githubusercontent.com/db3b61f607202fec45d5a1591c42ef8bd2a9d9bc721a8c1990fb4f107c01b3af/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e7376673f763d313033"  />
-  </a>
+
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/nadiakhan20/" target="_blank">
+  <a href="https://linkedin.com/in/nadiakhan20/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="20" alt="whatsapp logo"  />
   </a>
   <a href="https://www.facebook.com/tajamulk2" target="_blank">
