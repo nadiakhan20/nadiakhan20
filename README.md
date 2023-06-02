@@ -17,11 +17,7 @@
 <br clear="both">
 
 <div align="center">
- 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/nadiakhan20/" target="_blank"> 
- </a>
+  [![LinkedIn logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic)](https://www.linkedin.com/in/nadiakhan20/)
   
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="20" alt="whatsapp logo"  />
   </a>
