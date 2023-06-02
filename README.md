@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">A Passionate Technology Geek </h4>
+<h4 align="center">A Passionate Technology Person writing code Geek </h4>
 
 ###
 
