@@ -17,7 +17,6 @@
 <br clear="both">
 
 <div align="center">
-
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://linkedin.com/in/nadiakhan20/" target="_blank">
