@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/tajamulk/count.svg?"  />
 </div>
 
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">A Passionate Data 📊 Professional</h4>
+<h4 align="center">A Passionate Technology 📊 Geek </h4>
 
 ###
 
